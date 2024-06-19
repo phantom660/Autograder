@@ -1,0 +1,18 @@
+---
+:id: 241949347
+:submitters:
+- :name: Pratham Khandelwal
+  :email: khand113@umn.edu
+- :name: Nikhil Kumar Cherukuri
+  :email: cheru054@umn.edu
+- :name: Merrick Mcfarling
+  :email: mcfar288@umn.edu
+- :name: Tamojit Bera
+  :email: bera0041@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-03-26 17:05:35.697703000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-03-26 10:05:35.697703000 Z
+:status: processed
+:score: 79.0
